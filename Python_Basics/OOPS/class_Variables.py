@@ -35,7 +35,7 @@ class Employee:
 # Lets run a for loop for employee's
 employee_dict = {}
 
-for i in range(10):
+for i in range(100):
     employee_dict['emp_'+str(i)] = r.randint(1000,10000)
     
 for key in employee_dict.keys():
