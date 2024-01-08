@@ -1,6 +1,6 @@
 class Account:
 
-    savings_interest = 7.5
+    savings_interest = 100
     coorportae_interest = 4
     transitory_balance = 0
 
@@ -10,7 +10,7 @@ class Account:
         self.balance = balance
 
     def withdraw(self, withdraw_amount):
-        Account.transitory_balance = int(self.balance) - int(withdraw_amount)
+        self.balance = int(self.balance) - int(withdraw_amount)
         if self.balance < 0:
             print("Insufficient funds :(")
         else:
@@ -35,7 +35,7 @@ class Savings_account(Account): # this is the way
 
     def savings_interest(self):
         interest_multiplier = int(Account.savings_interest)/100 # accessing class variable from main class
-        return self.balance * (1 + round(interest_multiplier,2))
+        self.balance =  self.balance * (1 + round(interest_multiplier,2))
 
 class Coorporate_account(Account):
     def __init__(self, accoutno, password, balance, company_name):
@@ -43,8 +43,18 @@ class Coorporate_account(Account):
         self.company_name = company_name 
 
 savings_usr_1 = Savings_account(100021, 'test123', 0, 10000)
-print(savings_usr_1.savings_interest())
-savings_usr_1.deposit(1000)
+savings_usr_1.savings_interest()
+savings_usr_1.deposit(1000) # accessing method which is used in class through sub class
 print(savings_usr_1.check_balance())
 savings_usr_1.withdraw(5000)
-print(savings_usr_1.check_balance())
+print(savings_usr_1.balance)
+
+# print(help(Savings_account)) # see the method resolution order to understand a bit more about sub classes
+
+# Other useful method to check if the objet\ct is an instance of a certain class or if a certain class is a subclass of parent class or not
+
+print(issubclass(Coorporate_account,Account))
+print(issubclass(Savings_account,Account))
+print(issubclass(Savings_account,Coorporate_account))
+print(isinstance(savings_usr_1,Savings_account))
+print(isinstance(savings_usr_1,Account)) # sub class instance is also an instance of parent class
