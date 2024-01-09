@@ -57,3 +57,21 @@ print('{0:5d}'.format(1111))
 print('{0:5d}'.format(111))
 print('{0:5d}'.format(11))
 print('{0:5d}'.format(1))
+
+# printing dict values
+dummy_dict = {"name": "ram", "age": 35, "wife": "sita"}
+# Way 1
+print('{0} who is of {1} is the husband of {2}'.format(dummy_dict['name'],dummy_dict['age'],dummy_dict['wife']))
+# Way 2
+print('{0[name]} whos is of {0[age]} is the husband of {0[wife]}'.format(dummy_dict))
+# Way 3
+print('{name} who is of {age} is the husband of {wife}'.format(**dummy_dict))
+my_dict = {'a': 1, 'b': 2, 'c': 3}
+print(*my_dict.values())
+
+# printing list values 
+l = ['one','two','three','four','five']
+print(l[0])
+for i in range(len(l)):
+  print('The number is {}'.format(l[i]))
+print('The numbers in the list are {0[0]},{0[1]},{0[2]},{0[3]},{0[4]}'.format(l))
