@@ -1,0 +1,7 @@
+INFO:root:Running add on parameters (1, 2, 3, 4, 5)
+INFO:root:Running add on parameters (1, 2, 3, 4, 5)
+INFO:root:Running multiply on parameters (range(1, 20),)
+INFO:root:Running add on parameters (1, 2, 3, 4, 5)
+INFO:root:Running multiply on parameters ([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19],)
+INFO:root:Running add on parameters (1, 2, 3, 4, 5)
+INFO:root:Running multiply on parameters (24, 345, 12341, 12, 67)
