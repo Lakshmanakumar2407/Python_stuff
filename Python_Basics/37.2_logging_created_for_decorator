@@ -1,0 +1,8 @@
+INFO:root:add ran with arguments (3, 4, 5, 8, 1, 7, 9) and key word argumnets {} at 2024-01-14 18:37:15.135888+05:30
+INFO:root:add ran with arguments (3, 4, 5, 8, 1) and key word argumnets {} at 2024-01-14 18:37:27.141087+05:30
+INFO:root:wrapper_function ran with arguments (3, 4, 5, 8, 1) and key word argumnets {} at 2024-01-14 18:48:08.728096+05:30
+INFO:root:wrapper_function ran with arguments (3, 4, 5, 8, 1) and key word argumnets {} at 2024-01-14 18:48:33.107408+05:30
+INFO:root:add ran with arguments (3, 4, 5, 8, 1) and key word argumnets {} at 2024-01-14 18:48:57.300006+05:30
+INFO:root:add ran with arguments (3, 4, 5, 8, 1) and key word argumnets {} at 2024-01-14 18:57:56.665329+05:30
+INFO:root:add ran with arguments (3, 4, 5, 8, 1) and key word argumnets {} at 2024-01-14 19:08:39.545048+05:30
+INFO:root:add ran with arguments (3, 4) and key word argumnets {} at 2024-01-14 22:44:34.256546+05:30
