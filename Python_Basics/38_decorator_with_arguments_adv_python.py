@@ -18,4 +18,4 @@ def add(*args):
         res += val
     return res
 
-print(add(3,4,5))
+print(add(3,4,5,6))
