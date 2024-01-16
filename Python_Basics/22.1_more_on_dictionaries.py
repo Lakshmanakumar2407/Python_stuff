@@ -18,5 +18,6 @@ for x in d:
 print(d.keys()) # generates 'list' of key alone
 print(d.values()) # generates 'list' of all values
 print(d.items()) # generates a 'list' of 'tuples' of key value pair which can hashable or non hashable based on the value datatype
+print(d[2][3])
 
 # All list metods can be used on dictionariy
