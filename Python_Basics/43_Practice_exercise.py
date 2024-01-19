@@ -42,6 +42,8 @@ with open('43.1_csv_names_sample.csv', 'r') as csv_read:
     next(csv_read) # ignoring the header row
     # names_list = (line[0] for line in csv_read) # created generator to pass on the list to decortaor class
 
+    # working within the context manager because we directly use the csv_read...
+
     # @wrapper_ul
     def append_li(some_string):
         new_string = f'<li>{some_string}</li>'
