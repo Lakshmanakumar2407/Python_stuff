@@ -1,0 +1,187 @@
+[33mcommit c6505067801b240a4fed7e59903e89c3979ee440[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Fri Jan 19 13:05:37 2024 +0530
+
+    some naming changes code in text.py
+
+[33mcommit f9b5999a6a4afbcacfc3a3468d633959d1e2bc25[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Fri Jan 19 12:34:29 2024 +0530
+
+    practice...
+
+[33mcommit cd3f6e1ff4e227e39c2d5b9ddb20246f291a1168[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Thu Jan 18 09:37:06 2024 +0530
+
+    Notes....
+
+[33mcommit ecc313bec1500b96f192ff5c78d7a669b55abeec[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Wed Jan 17 08:13:08 2024 +0530
+
+    Notes....
+
+[33mcommit e29b259500d2b29525f4cef72d761e48fa83ccaf[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Tue Jan 16 11:21:09 2024 +0530
+
+    csv notes and named tuple
+
+[33mcommit 30c929e46c001202f3c17a2e81dd7b725fb46e10[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Mon Jan 15 08:26:25 2024 +0530
+
+    Decorator notes
+
+[33mcommit 4dadc7076e76c970ac23a6ce5d85b79a8a127e9d[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Mon Jan 15 08:23:01 2024 +0530
+
+    gi
+
+[33mcommit 0c5d177257d904b3538cd9e004da10fd26a17a2e[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Sun Jan 14 16:47:11 2024 +0530
+
+    Small change
+
+[33mcommit df0a5dd8cf09bdeb8fbffcb4b38d828b0af3be19[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Sun Jan 14 15:43:31 2024 +0530
+
+    generator notes
+
+[33mcommit 557d94d9143ddef448888d983bd02a0faedc16aa[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Sat Jan 13 22:05:57 2024 +0530
+
+    Notes on first class functions, closures, and data for working with csv...
+
+[33mcommit 54671eded0272d9746bce4137fe9cd0255908987[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Fri Jan 12 19:44:29 2024 +0530
+
+    notes on random module
+
+[33mcommit ad81627d68e8ffdf28a4bb435f92a50a07842d81[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Thu Jan 11 18:35:55 2024 +0530
+
+    Notes on Filehandling and Practise code on os - datetime- filehandling - modules..... It was fun!!
+
+[33mcommit 4498a98c10539c4d3d5dbd6027935fced37e4500[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Wed Jan 10 09:16:01 2024 +0530
+
+    datetime notes
+
+[33mcommit c7e182bf5c5727eba97ffa01bdf80368dfcbd53b[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Tue Jan 9 12:06:59 2024 +0530
+
+    notes on sorted(), lambdas, os module and some string formatting
+
+[33mcommit b224cf11db810dc5038de984249d9103043167ef[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Tue Jan 9 12:06:28 2024 +0530
+
+    notes on sorted(), lambdas, os module and some string formatting
+
+[33mcommit 991cfefdccb41f3215269a7ff5f5d5e5004fafc4[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Mon Jan 8 21:15:59 2024 +0530
+
+    List comprehensin notes
+
+[33mcommit da5e4f0775690d5b2a4017f8049e55ab6800d262[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Mon Jan 8 12:05:45 2024 +0530
+
+    notes on decorators and completed class videos
+
+[33mcommit 244f0c4012c9212c2a32d293218b72c49a241e76[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Mon Jan 8 09:34:13 2024 +0530
+
+    Subclass notess completed
+
+[33mcommit f95a7576a5f2856291204d4cea28db3eeccbbd59[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Sun Jan 7 21:35:11 2024 +0530
+
+    notes on class and sub-class using bank account - not yet finished
+
+[33mcommit ead4b334b7ff1209a25228bce6ab90d7b9962c81[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Sat Jan 6 22:33:23 2024 +0530
+
+    sub class notes - paused
+
+[33mcommit d0f3e3eba976c8ae4c2440727d75eca72139c36a[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Sat Jan 6 16:36:22 2024 +0530
+
+    class methods and static methods notes
+
+[33mcommit ca6c49f636dcf10b445e0458f24b18ac02ca2707[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Thu Jan 4 20:32:26 2024 +0530
+
+    Class varible notes from corey youtube
+
+[33mcommit a455dea107f22d2c4fa82eb1a668ffdb205d9c32[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Wed Jan 3 21:32:14 2024 +0530
+
+    class variable notes
+
+[33mcommit 62b8fd80261770bb697379c54ff496d0ee7af0e6[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Wed Jan 3 18:23:59 2024 +0530
+
+    Notes on OOPS from Corey video iin Youtube
+
+[33mcommit 37208b6aeb13737b645b843dde21b4e45e04e9cc[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Mon Jan 1 06:00:48 2024 +0530
+
+    Happy new year
+
+[33mcommit 0da6b0d86c26594adfe1fb233bdcfaa076b536ae[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Sat Dec 30 10:04:32 2023 +0530
+
+    removing testing files
+
+[33mcommit 79658af5b1165cddfe28528046fd0672081af6da[m
+Author: Laks24 <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Sat Dec 30 10:03:19 2023 +0530
+
+    Create testing
+
+[33mcommit ae47182b2d6dc0422f099d2af23e806b52b606ea[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Sat Dec 30 10:02:07 2023 +0530
+
+    testing
+
+[33mcommit af82b71a044e13f54009adf5bd445e0e099db16f[m
+Merge: 2803648 59b8c77
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Sat Dec 30 09:57:39 2023 +0530
+
+    Merge branch 'main' of https://github.com/Lakshmanakumar2407/Python_stuff
+    to resolve ...
+
+[33mcommit 2803648144868300e91c506f58678950f687d5e7[m
+Author: Laksh <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Sat Dec 30 09:51:08 2023 +0530
+
+    Adding files
+
+[33mcommit 59b8c775a4e11c01166cbb245992619417268a78[m
+Author: Laks24 <67274190+Lakshmanakumar2407@users.noreply.github.com>
+Date:   Sat Dec 30 09:24:08 2023 +0530
+
+    Initial commit
