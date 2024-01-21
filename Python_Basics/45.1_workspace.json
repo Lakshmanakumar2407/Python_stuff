@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "a2855d865bde1daf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6610a03bd0851b2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bccd0a6fbe4f1cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily Notes/20th Jan 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d10e99e9acc47e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Habits Log.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18a2932c864b8855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Weekly Notes/2024 - Week 03.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1e69ad71138f5f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "962a76a349eadbd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f02ff25baccd53cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "301d18820915e1ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "340a235bb9cf53ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "9d4b938cfb5f9de9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dd9bc8b429c9666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "031817fe81237549",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ae7e9d120572257",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/Daily Notes/20th Jan 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e9e42a5b472b2cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/Daily Notes/20th Jan 2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b352e30b84686c23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e6f87da2a311ae10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/Daily Notes/20th Jan 2024.md"
+              }
+            }
+          },
+          {
+            "id": "b847abededbd5783",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "0bccd0a6fbe4f1cd",
+  "lastOpenFiles": [
+    "Journal/Daily Notes/19th Jan 2024.md",
+    "Journal/Daily Notes/20th Jan 2024.md",
+    "Journal/Habits Log.md",
+    "Journal/Daily Notes/16th Jan 2024.md",
+    "Journal/Weekly Notes/2024 - Week 03.md",
+    "Journal/Daily Notes/18th Jan 2024.md",
+    "Journal/Weekly Notes/2024 - Week 02.md",
+    "Journal/Daily Notes/17th Jan 2024.md",
+    "Journal/Daily Notes/26th Nov 2023.md",
+    "Journal/Daily Notes/15th Jan 2024.md",
+    "Journal/Daily Notes/~syncthing~15th Jan 2024.md.tmp",
+    "Journal/Daily Notes/14th Jan 2024.md",
+    "Journal/Daily Notes/11th Jan 2024.md",
+    "Journal/Daily Notes/12th Jan 2024.md",
+    "Journal/Daily Notes/10th Jan 2024.md",
+    "Journal/Daily Notes/9th Jan 2024.md",
+    "Journal/Daily Notes/8th Jan 2024.md",
+    "Journal/Daily Notes/1st Jan 2024.md",
+    "Journal/Daily Notes/13th Jan 2024.md",
+    "Journal/Weekly Notes/2024 - Week 01.md",
+    "Machine Learning/Course -1 Supervised ML - Regression and Classification/Supervised learning - Intro.md",
+    "Machine Learning/Course -1 Supervised ML - Regression and Classification",
+    "Untitled",
+    "Machine Learning",
+    "Journal/Daily Notes/~syncthing~9th Jan 2024.md.tmp",
+    "Journal/Daily Notes/6th Jan 2024.md",
+    "8th Jan 2024.md",
+    "Journal/Daily Notes/4th Jan 2024.md",
+    "Journal/Daily Notes/31st Dec 2023.md",
+    "Journal/Daily Notes/24th Dec 2023.md",
+    "Journal/Daily Notes/23rd Nov 2023.md",
+    "Finances/Finance Log/DBS",
+    "Templates/Untitled",
+    "Finances/Finance Log",
+    "2024 - Week 01",
+    "~$Vocabulary.xlsx",
+    "Untitled.canvas"
+  ]
+}
