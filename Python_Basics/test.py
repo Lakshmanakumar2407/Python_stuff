@@ -11,3 +11,11 @@ for title in title_list_py:
         newfilename = '0'+ oldfilename
         # os.rename(oldfilename, newfilename)
         print(newfilename)
+
+list1 = [1, 2, 3]
+list2 = ['a', 'b', 'c']
+
+zipped = zip(list1, list2)
+
+for a,b in zipped:
+    print(a,b)
