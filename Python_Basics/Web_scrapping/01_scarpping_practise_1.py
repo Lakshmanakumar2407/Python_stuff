@@ -5,17 +5,17 @@ import requests, os, csv
 os.chdir(r'Python\Python_Basics\Web_scrapping')
 
 # Creating a html file to store the content from requests
-html_file = open('01_html_code.html','w', encoding='utf-8')
+# html_file = open('01_html_code.html','w', encoding='utf-8')
 
 # using requests get method to get source object
-source = requests.get('https://www.scrapethissite.com/pages/simple/')
-html_file.write(source.text) # write the text to html file using the text attribute of source object
-html_file.close()
+source = requests.get('https://www.scrapethissite.com/pages/simple/').text
+# html_file.write(source.text) # write the text to html file using the text attribute of source object
+# html_file.close()
 
-html_file = open('01_html_code.html')
+# html_file = open('01_html_code.html')
 
 # Parsing the html file using beautifulsoup
-soup = BeautifulSoup(html_file, 'lxml')
+soup = BeautifulSoup(source, 'lxml')
 
 i = 0
 # creating a dict to store scrapped values
@@ -46,7 +46,7 @@ for article in soup.find_all('div', class_ = 'row'):
 scrap_dict = dict(sorted(scrap_dict.items()))
 
 # creating a csv to store the scraped data
-with open('01_scrapped_csv_country_list.csv', 'w', newline= '') as scrap_csv:
+with open('01_scrapped_csv_country_list.csv', 'w', newline= '',encoding='utf-8') as scrap_csv:
     header = ['country','capital','population','area']
     scrap_csv = csv.DictWriter(scrap_csv, fieldnames=header, delimiter=',')
     scrap_csv.writeheader()
@@ -63,4 +63,4 @@ with open('01_scrapped_csv_country_list.csv', 'w', newline= '') as scrap_csv:
             })
 
 # closing the file to reduce resource consumption        
-html_file.close()
+# html_file.close()
