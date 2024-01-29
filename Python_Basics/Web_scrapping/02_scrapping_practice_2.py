@@ -77,7 +77,7 @@ for url in urls:
 
 
 # writing the data to csv            
-with open('03_scrapped_hockey_list.csv','w', newline='') as csv_write:
+with open('02_scrapped_hockey_list.csv','w', newline='') as csv_write:
     col_names = ['team_name', 'team_year', 'team_wins', 'team_losses', 'team_ot_losses', 'team_win_percent', 'team_gf', 'team_ga', 'team_success']
     csv_write = csv.DictWriter(csv_write,fieldnames = col_names, delimiter = '\t')
     csv_write.writeheader()
