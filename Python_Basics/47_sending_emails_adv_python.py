@@ -34,7 +34,8 @@ email_to = email_address
 msg = MIMEMultipart() # it's a class
 msg['Subject'] = email_subject
 msg['From'] = email_address
-msg['To'] = email_to
+contact_list = [email_address,'user2@gmail.com','user3@gmail.com']
+msg['To'] = ', '.join(contact_list)
 
 # CREATING A TEXT
 # msg.attach(MIMEText('This is a simple plain email', "plain"))
