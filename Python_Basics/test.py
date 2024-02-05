@@ -18,4 +18,9 @@ list2 = ['a', 'b', 'c']
 zipped = zip(list1, list2)
 
 for a,b in zipped:
-    print(a,b)
+    # print(a,b)
+    pass
+
+import datetime
+
+print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))

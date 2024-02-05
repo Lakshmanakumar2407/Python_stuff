@@ -1,0 +1,1837 @@
+<html>
+ <body>
+  <div class="tab-pane fade in active" id="tbl_fundam">
+   <div class="table-responsive tabledesk-responsive custom_scroll" id="tableslider">
+    <table cellpadding="0" cellspacing="0" class="tbl_indices table_sorter table_f_mt" id="indicesTable" width="100%">
+     <thead>
+      <tr>
+       <th class="">
+        Name
+        <span>
+         <strong class="tbl_uparw">
+         </strong>
+         <strong class="tbl_dnarw">
+         </strong>
+        </span>
+       </th>
+       <th class="">
+        LTP
+        <span>
+         <strong class="tbl_uparw">
+         </strong>
+         <strong class="tbl_dnarw">
+         </strong>
+        </span>
+       </th>
+       <th class="">
+        P/E
+        <span>
+         <strong class="tbl_uparw">
+         </strong>
+         <strong class="tbl_dnarw">
+         </strong>
+        </span>
+       </th>
+       <th class="">
+        Debt to Equity
+        <span>
+         <strong class="tbl_uparw">
+         </strong>
+         <strong class="tbl_dnarw">
+         </strong>
+        </span>
+       </th>
+       <th class="">
+        EPS(Rs.)
+        <span>
+         <strong class="tbl_uparw">
+         </strong>
+         <strong class="tbl_dnarw">
+         </strong>
+        </span>
+       </th>
+       <th class="">
+        BVPS(Rs.)
+        <span>
+         <strong class="tbl_uparw">
+         </strong>
+         <strong class="tbl_dnarw">
+         </strong>
+        </span>
+       </th>
+       <th class="">
+        Net Profit(Rs. Cr)
+        <span>
+         <strong class="tbl_uparw">
+         </strong>
+         <strong class="tbl_dnarw">
+         </strong>
+        </span>
+       </th>
+       <th class="">
+        DPS(Rs.)
+        <span>
+         <strong class="tbl_uparw">
+         </strong>
+         <strong class="tbl_dnarw">
+         </strong>
+        </span>
+       </th>
+       <th class="">
+        NPM%
+        <span>
+         <strong class="tbl_uparw">
+         </strong>
+         <strong class="tbl_dnarw">
+         </strong>
+        </span>
+       </th>
+       <th class="">
+        ROE%
+        <span>
+         <strong class="tbl_uparw">
+         </strong>
+         <strong class="tbl_dnarw">
+         </strong>
+        </span>
+       </th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/trading/adanienterprises/AE13" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Adani Enterpris');" target="_blank">
+         Adani Enterpris
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_AE01_f9N">
+        3,216.90
+       </td>
+       <td>
+        307.60
+       </td>
+       <td>
+        0.81
+       </td>
+       <td>
+        6.55
+       </td>
+       <td>
+        47.65
+       </td>
+       <td>
+        475.00
+       </td>
+       <td>
+        1.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        13.75
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/adaniportsspecialeconomiczone/MPS" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Adani Ports');" target="_blank">
+         Adani Ports
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_MPS_f9N">
+        1,287.55
+       </td>
+       <td>
+        549.08
+       </td>
+       <td>
+        1.68
+       </td>
+       <td>
+        1.41
+       </td>
+       <td>
+        125.84
+       </td>
+       <td>
+        4,602.00
+       </td>
+       <td>
+        5.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        1.11
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/hospitals-medical-services/apollohospitalsenterprises/AHE" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Apollo Hospital');" target="_blank">
+         Apollo Hospital
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_AHE_f9N">
+        6,301.75
+       </td>
+       <td>
+        97.65
+       </td>
+       <td>
+        0.33
+       </td>
+       <td>
+        46.25
+       </td>
+       <td>
+        425.00
+       </td>
+       <td>
+        1,101.00
+       </td>
+       <td>
+        11.75
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        10.88
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/paints-varnishes/asianpaints/AP31" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Asian Paints');" target="_blank">
+         Asian Paints
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_API_f9N">
+        2,946.20
+       </td>
+       <td>
+        94.25
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        32.68
+       </td>
+       <td>
+        139.17
+       </td>
+       <td>
+        3,053.00
+       </td>
+       <td>
+        19.15
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        23.48
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/axisbank/AB16" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Axis Bank');" target="_blank">
+         Axis Bank
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_UTI10_f9N">
+        1,065.05
+       </td>
+       <td>
+        17.92
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        42.48
+       </td>
+       <td>
+        374.71
+       </td>
+       <td>
+        14,164.00
+       </td>
+       <td>
+        1.00
+       </td>
+       <td>
+        19.33
+       </td>
+       <td>
+        11.32
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/auto-2-3-wheelers/bajajauto/BA10" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Bajaj Auto');" target="_blank">
+         Bajaj Auto
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_BA06_f9N">
+        7,783.40
+       </td>
+       <td>
+        21.04
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        173.60
+       </td>
+       <td>
+        921.62
+       </td>
+       <td>
+        5,586.00
+       </td>
+       <td>
+        140.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        18.81
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/finance-nbfc/bajajfinance/BAF" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Bajaj Finance');" target="_blank">
+         Bajaj Finance
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_BAF_f9N">
+        6,826.15
+       </td>
+       <td>
+        78.21
+       </td>
+       <td>
+        2.78
+       </td>
+       <td>
+        65.85
+       </td>
+       <td>
+        597.39
+       </td>
+       <td>
+        4,419.00
+       </td>
+       <td>
+        10.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        11.00
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/finance-investments/bajajfinserv/BF04" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Bajaj Finserv');" target="_blank">
+         Bajaj Finserv
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_BF04_f9N">
+        1,638.65
+       </td>
+       <td>
+        863.27
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        11.20
+       </td>
+       <td>
+        238.84
+       </td>
+       <td>
+        7,367.00
+       </td>
+       <td>
+        3.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        4.70
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | BPCL');" target="_blank">
+         BPCL
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_BPC_f9N">
+        582.45
+       </td>
+       <td>
+        8.70
+       </td>
+       <td>
+        0.49
+       </td>
+       <td>
+        41.31
+       </td>
+       <td>
+        233.25
+       </td>
+       <td>
+        10,145.00
+       </td>
+       <td>
+        16.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        17.69
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/telecommunications-service/bhartiairtel/BA08" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Bharti Airtel');" target="_blank">
+         Bharti Airtel
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_BTV_f9N">
+        1,125.70
+       </td>
+       <td>
+        -115.61
+       </td>
+       <td>
+        1.31
+       </td>
+       <td>
+        -6.53
+       </td>
+       <td>
+        141.20
+       </td>
+       <td>
+        -23,327.00
+       </td>
+       <td>
+        3.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        -4.59
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/food-processing/britanniaindustries/BI" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Britannia');" target="_blank">
+         Britannia
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_BI_f9N">
+        5,143.85
+       </td>
+       <td>
+        48.17
+       </td>
+       <td>
+        0.91
+       </td>
+       <td>
+        66.56
+       </td>
+       <td>
+        99.73
+       </td>
+       <td>
+        1,516.00
+       </td>
+       <td>
+        56.50
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        66.72
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/cipla/C" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Cipla');" target="_blank">
+         Cipla
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_C_f9N">
+        1,427.90
+       </td>
+       <td>
+        27.80
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        36.62
+       </td>
+       <td>
+        279.05
+       </td>
+       <td>
+        2,559.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        13.13
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/mining-minerals/coalindia/CI11" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Coal India');" target="_blank">
+         Coal India
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_CI29_f9N">
+        435.45
+       </td>
+       <td>
+        10.07
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        18.18
+       </td>
+       <td>
+        26.54
+       </td>
+       <td>
+        17,387.00
+       </td>
+       <td>
+        17.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        68.47
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/divislaboratories/DL03" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Divis Labs');" target="_blank">
+         Divis Labs
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_DL03_f9N">
+        3,708.60
+       </td>
+       <td>
+        39.63
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        111.07
+       </td>
+       <td>
+        440.44
+       </td>
+       <td>
+        2,960.00
+       </td>
+       <td>
+        30.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        25.21
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/drreddyslaboratories/DRL" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Dr Reddys Labs');" target="_blank">
+         Dr Reddys Labs
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_DRL_f9N">
+        6,115.40
+       </td>
+       <td>
+        43.90
+       </td>
+       <td>
+        0.12
+       </td>
+       <td>
+        97.85
+       </td>
+       <td>
+        1,101.94
+       </td>
+       <td>
+        2,112.00
+       </td>
+       <td>
+        30.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        8.85
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/auto-lcvs-hcvs/eichermotors/EM" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Eicher Motors');" target="_blank">
+         Eicher Motors
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_EM_f9N">
+        3,890.00
+       </td>
+       <td>
+        42.35
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        58.02
+       </td>
+       <td>
+        394.83
+       </td>
+       <td>
+        1,616.00
+       </td>
+       <td>
+        21.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        14.69
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/diversified/grasimindustries/GI01" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Grasim');" target="_blank">
+         Grasim
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_GI01_f9N">
+        2,130.00
+       </td>
+       <td>
+        35.81
+       </td>
+       <td>
+        0.08
+       </td>
+       <td>
+        46.47
+       </td>
+       <td>
+        738.45
+       </td>
+       <td>
+        10,825.00
+       </td>
+       <td>
+        10.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        6.27
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/computers-software/hcltechnologies/HCL02" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | HCL Tech');" target="_blank">
+         HCL Tech
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_HCL02_f9N">
+        1,577.80
+       </td>
+       <td>
+        29.02
+       </td>
+       <td>
+        0.01
+       </td>
+       <td>
+        40.10
+       </td>
+       <td>
+        156.87
+       </td>
+       <td>
+        13,523.00
+       </td>
+       <td>
+        42.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        25.53
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/hdfcbank/HDF01" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | HDFC Bank');" target="_blank">
+         HDFC Bank
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_HDF01_f9N">
+        1,443.60
+       </td>
+       <td>
+        22.01
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        66.80
+       </td>
+       <td>
+        432.95
+       </td>
+       <td>
+        38,151.00
+       </td>
+       <td>
+        15.50
+       </td>
+       <td>
+        28.93
+       </td>
+       <td>
+        15.39
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/life-health-insurance/hdfclifeinsurancecompany/HSL01" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | HDFC Life');" target="_blank">
+         HDFC Life
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_HSL01_f9N">
+        573.40
+       </td>
+       <td>
+        103.45
+       </td>
+       <td>
+        0.05
+       </td>
+       <td>
+        6.73
+       </td>
+       <td>
+        55.37
+       </td>
+       <td>
+        1,360.00
+       </td>
+       <td>
+        2.02
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        12.15
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/auto-2-3-wheelers/heromotocorp/HHM" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Hero Motocorp');" target="_blank">
+         Hero Motocorp
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_HHM_f9N">
+        4,755.00
+       </td>
+       <td>
+        18.53
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        123.78
+       </td>
+       <td>
+        789.94
+       </td>
+       <td>
+        2,528.00
+       </td>
+       <td>
+        95.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        15.66
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/iron-steel/hindalcoindustries/HI" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Hindalco');" target="_blank">
+         Hindalco
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_H_f9N">
+        586.40
+       </td>
+       <td>
+        16.38
+       </td>
+       <td>
+        0.35
+       </td>
+       <td>
+        34.76
+       </td>
+       <td>
+        245.17
+       </td>
+       <td>
+        13,724.00
+       </td>
+       <td>
+        4.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        10.11
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/personal-care/hindustanunilever/HU" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | HUL');" target="_blank">
+         HUL
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_HL_f9N">
+        2,440.60
+       </td>
+       <td>
+        54.59
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        37.53
+       </td>
+       <td>
+        207.49
+       </td>
+       <td>
+        8,892.00
+       </td>
+       <td>
+        34.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        18.08
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/icicibank/ICI02" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | ICICI Bank');" target="_blank">
+         ICICI Bank
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_ICI02_f9N">
+        1,019.70
+       </td>
+       <td>
+        21.70
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        33.66
+       </td>
+       <td>
+        205.89
+       </td>
+       <td>
+        25,784.00
+       </td>
+       <td>
+        5.00
+       </td>
+       <td>
+        27.02
+       </td>
+       <td>
+        13.68
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/indusindbank/IIB" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | IndusInd Bank');" target="_blank">
+         IndusInd Bank
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_IIB_f9N">
+        1,544.65
+       </td>
+       <td>
+        15.70
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        59.57
+       </td>
+       <td>
+        615.72
+       </td>
+       <td>
+        4,805.00
+       </td>
+       <td>
+        8.50
+       </td>
+       <td>
+        14.96
+       </td>
+       <td>
+        9.66
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/computers-software/infosys/IT" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Infosys');" target="_blank">
+         Infosys
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_IT_f9N">
+        1,694.30
+       </td>
+       <td>
+        37.77
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        50.49
+       </td>
+       <td>
+        164.78
+       </td>
+       <td>
+        22,146.00
+       </td>
+       <td>
+        31.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        30.63
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/diversified/itc/ITC" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | ITC');" target="_blank">
+         ITC
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_ITC_f9N">
+        441.65
+       </td>
+       <td>
+        20.51
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        12.22
+       </td>
+       <td>
+        49.82
+       </td>
+       <td>
+        15,485.00
+       </td>
+       <td>
+        11.50
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        24.52
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/steel-large/jswsteel/JSW01" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | JSW Steel');" target="_blank">
+         JSW Steel
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_JVS_f9N">
+        820.80
+       </td>
+       <td>
+        10.54
+       </td>
+       <td>
+        0.79
+       </td>
+       <td>
+        69.48
+       </td>
+       <td>
+        210.97
+       </td>
+       <td>
+        20,021.00
+       </td>
+       <td>
+        17.35
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        26.30
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/kotakmahindrabank/KMB" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Kotak Mahindra');" target="_blank">
+         Kotak Mahindra
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_KMF_f9N">
+        1,810.25
+       </td>
+       <td>
+        49.84
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        35.17
+       </td>
+       <td>
+        319.04
+       </td>
+       <td>
+        9,903.00
+       </td>
+       <td>
+        0.90
+       </td>
+       <td>
+        25.94
+       </td>
+       <td>
+        11.01
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/larsentoubro/LT" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Larsen');" target="_blank">
+         Larsen
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_LT_f9N">
+        3,367.10
+       </td>
+       <td>
+        31.51
+       </td>
+       <td>
+        0.30
+       </td>
+       <td>
+        56.09
+       </td>
+       <td>
+        477.66
+       </td>
+       <td>
+        4,668.00
+       </td>
+       <td>
+        22.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        11.74
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/computers-software/ltimindtree/LI12" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | LTIMindtree');" target="_blank">
+         LTIMindtree
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_LI09_f9N">
+        5,486.45
+       </td>
+       <td>
+        47.66
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        129.14
+       </td>
+       <td>
+        480.17
+       </td>
+       <td>
+        2,298.00
+       </td>
+       <td>
+        55.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        26.90
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/auto-cars-jeeps/mahindramahindra/MM" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | M&amp;M');" target="_blank">
+         M&amp;M
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_MM_f9N">
+        1,691.90
+       </td>
+       <td>
+        19.54
+       </td>
+       <td>
+        0.17
+       </td>
+       <td>
+        41.28
+       </td>
+       <td>
+        325.60
+       </td>
+       <td>
+        5,397.00
+       </td>
+       <td>
+        11.55
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        12.66
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/auto-cars-jeeps/marutisuzukiindia/MS24" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Maruti Suzuki');" target="_blank">
+         Maruti Suzuki
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_MU01_f9N">
+        10,591.45
+       </td>
+       <td>
+        60.65
+       </td>
+       <td>
+        0.01
+       </td>
+       <td>
+        124.68
+       </td>
+       <td>
+        1,790.93
+       </td>
+       <td>
+        3,717.00
+       </td>
+       <td>
+        60.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        6.96
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/food-processing/nestleindia/NI" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Nestle');" target="_blank">
+         Nestle
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_NI_f9N">
+        2,480.95
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        0.02
+       </td>
+       <td>
+        222.46
+       </td>
+       <td>
+        216.19
+       </td>
+       <td>
+        -
+       </td>
+       <td>
+        200.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        102.89
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/ntpc/NTP" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | NTPC');" target="_blank">
+         NTPC
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_NTP_f9N">
+        338.25
+       </td>
+       <td>
+        8.12
+       </td>
+       <td>
+        1.33
+       </td>
+       <td>
+        16.62
+       </td>
+       <td>
+        132.06
+       </td>
+       <td>
+        15,940.00
+       </td>
+       <td>
+        7.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        12.58
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/oil-drilling-exploration/oilnaturalgascorporation/ONG" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | ONGC');" target="_blank">
+         ONGC
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_ONG_f9N">
+        265.15
+       </td>
+       <td>
+        5.12
+       </td>
+       <td>
+        0.03
+       </td>
+       <td>
+        32.04
+       </td>
+       <td>
+        188.51
+       </td>
+       <td>
+        47,830.00
+       </td>
+       <td>
+        10.50
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        16.99
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/powergridcorporationindia/PGC" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Power Grid Corp');" target="_blank">
+         Power Grid Corp
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_PGC_f9N">
+        285.50
+       </td>
+       <td>
+        8.85
+       </td>
+       <td>
+        1.77
+       </td>
+       <td>
+        24.51
+       </td>
+       <td>
+        109.17
+       </td>
+       <td>
+        16,745.00
+       </td>
+       <td>
+        14.75
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        22.44
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/refineries/relianceindustries/RI" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Reliance');" target="_blank">
+         Reliance
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_RI_f9N">
+        2,922.55
+       </td>
+       <td>
+        44.48
+       </td>
+       <td>
+        0.41
+       </td>
+       <td>
+        59.24
+       </td>
+       <td>
+        697.01
+       </td>
+       <td>
+        67,565.00
+       </td>
+       <td>
+        8.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        8.28
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/life-health-insurance/sbilifeinsurancecompany/SLI03" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | SBI Life Insura');" target="_blank">
+         SBI Life Insura
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_SLI03_f9N">
+        1,426.25
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        14.56
+       </td>
+       <td>
+        131.26
+       </td>
+       <td>
+        -
+       </td>
+       <td>
+        2.50
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        11.09
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/statebankindia/SBI" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | SBI');" target="_blank">
+         SBI
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_SBI_f9N">
+        648.60
+       </td>
+       <td>
+        13.91
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        35.49
+       </td>
+       <td>
+        313.84
+       </td>
+       <td>
+        43,775.00
+       </td>
+       <td>
+        7.10
+       </td>
+       <td>
+        11.49
+       </td>
+       <td>
+        11.30
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/sunpharmaceuticalindustries/SPI" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Sun Pharma');" target="_blank">
+         Sun Pharma
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_SPI_f9N">
+        1,454.80
+       </td>
+       <td>
+        -2,286.88
+       </td>
+       <td>
+        0.20
+       </td>
+       <td>
+        -0.40
+       </td>
+       <td>
+        102.48
+       </td>
+       <td>
+        3,405.00
+       </td>
+       <td>
+        10.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        -0.40
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/computers-software/tataconsultancyservices/TCS" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | TCS');" target="_blank">
+         TCS
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_TCS_f9N">
+        3,999.70
+       </td>
+       <td>
+        35.84
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        104.34
+       </td>
+       <td>
+        210.86
+       </td>
+       <td>
+        38,449.00
+       </td>
+       <td>
+        43.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        49.48
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/plantations-tea-coffee/tataconsumerproducts/TT" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | TATA Cons. Prod');" target="_blank">
+         TATA Cons. Prod
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_TT_f9N">
+        1,161.40
+       </td>
+       <td>
+        80.89
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        9.61
+       </td>
+       <td>
+        127.62
+       </td>
+       <td>
+        1,078.00
+       </td>
+       <td>
+        6.05
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        7.53
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/auto-lcvs-hcvs/tatamotors/TM03" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Tata Motors');" target="_blank">
+         Tata Motors
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_TEL_f9N">
+        940.60
+       </td>
+       <td>
+        -119.49
+       </td>
+       <td>
+        1.16
+       </td>
+       <td>
+        -3.63
+       </td>
+       <td>
+        52.08
+       </td>
+       <td>
+        -11,234.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        -6.97
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/iron-steel/tatasteel/TIS" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Tata Steel');" target="_blank">
+         Tata Steel
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_TIS_f9N">
+        141.45
+       </td>
+       <td>
+        4.84
+       </td>
+       <td>
+        0.29
+       </td>
+       <td>
+        270.33
+       </td>
+       <td>
+        1,026.15
+       </td>
+       <td>
+        41,100.00
+       </td>
+       <td>
+        51.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        26.31
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/computers-software/techmahindra/TM4" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Tech Mahindra');" target="_blank">
+         Tech Mahindra
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_TM4_f9N">
+        1,347.05
+       </td>
+       <td>
+        29.70
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        50.48
+       </td>
+       <td>
+        265.99
+       </td>
+       <td>
+        5,630.00
+       </td>
+       <td>
+        45.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        19.00
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/miscellaneous/titancompany/TI01" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Titan Company');" target="_blank">
+         Titan Company
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_TI01_f9N">
+        3,600.20
+       </td>
+       <td>
+        103.26
+       </td>
+       <td>
+        0.02
+       </td>
+       <td>
+        24.56
+       </td>
+       <td>
+        105.57
+       </td>
+       <td>
+        2,198.00
+       </td>
+       <td>
+        7.50
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        23.25
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/cement-major/ultratechcement/UTC01" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | UltraTechCement');" target="_blank">
+         UltraTechCement
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_UTC_f9N">
+        10,079.50
+       </td>
+       <td>
+        26.95
+       </td>
+       <td>
+        0.20
+       </td>
+       <td>
+        245.00
+       </td>
+       <td>
+        1,706.82
+       </td>
+       <td>
+        7,332.00
+       </td>
+       <td>
+        38.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        14.34
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/chemicals/upl/UP04" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | UPL');" target="_blank">
+         UPL
+        </a>
+       </td>
+       <td class="redtxt" id="ltp_SI10_f9N">
+        491.30
+       </td>
+       <td>
+        50.01
+       </td>
+       <td>
+        0.20
+       </td>
+       <td>
+        15.39
+       </td>
+       <td>
+        107.20
+       </td>
+       <td>
+        4,303.00
+       </td>
+       <td>
+        10.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        14.33
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="https://www.moneycontrol.com/india/stockpricequote/computers-software/wipro/W" onclick="javascript:GAEventTracker('Indian Indices', 'Market Terminal', 'Stocks | Wipro');" target="_blank">
+         Wipro
+        </a>
+       </td>
+       <td class="greentxt" id="ltp_W_f9N">
+        484.35
+       </td>
+       <td>
+        26.66
+       </td>
+       <td>
+        0.14
+       </td>
+       <td>
+        22.20
+       </td>
+       <td>
+        99.14
+       </td>
+       <td>
+        12,237.00
+       </td>
+       <td>
+        6.00
+       </td>
+       <td>
+        0.00
+       </td>
+       <td>
+        22.32
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <input id="scidsTBL_MT" type="hidden" value='["AE01","MPS","AHE","API","UTI10","BA06","BAF","BF04","BPC","BTV","BI","C","CI29","DL03","DRL","EM","GI01","HCL02","HDF01","HSL01","HHM","H","HL","ICI02","IIB","IT","ITC","JVS","KMF","LT","LI09","MM","MU01","NI","NTP","ONG","PGC","RI","SLI03","SBI","SPI","TCS","TT","TEL","TIS","TM4","TI01","UTC","SI10","W"]'/>
+    <input id="extraIdMT_wid" type="hidden" value="f9N"/>
+   </div>
+   <div class="sticky_paging">
+    <button id="slideBack" type="button">
+    </button>
+    <button id="slide" type="button">
+    </button>
+   </div>
+  </div>
+  <script>
+   if('marketTerminal' === 'marketTerminal' ){
+$('#extraIdMT').val('f9N');
+$('#scids').val($('#scidsTBL_MT').val());
+}else{
+$('#extraML').val('f9N');
+$('#bridgeIds').val($('#scidsTBL_ML').val());
+}
+$('table').trigger('destroy');
+$('.table_sorter').trigger('destroy');
+$('.LMtablesorter').trigger('destroy');
+$('.table_sorter').tablesorter();
+let activeCategory = ('web' == 'web') ? $('.LM_subTabList.active').attr('data-category') : $('#selectedCat_mob').val();
+// $('.LMtablesorter tr').addClass('static');
+$(`.LMtablesorter tr[data-type='${activeCategory}']`).removeClass('static');
+// $(".LMtablesorter").tablesorter( {
+//     widgets: ['staticRow']
+// } );
+$('table').tablesorter({
+theme: 'blue',
+widgets: ['zebra','staticRow'],
+});
+  </script>
+ </body>
+</html>
