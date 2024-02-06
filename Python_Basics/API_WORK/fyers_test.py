@@ -1,0 +1,40 @@
+from fyers_api import accessToken, fyersModel
+import webbrowser, os, json
+
+
+client_id = "xxxxxxx"
+secret_key = "xxxxxxx"
+redirect_uri = "https://trade.fyers.in/"
+response_type = "code"
+state = "xxxx"
+grant_type="authorization_code"
+auth_code = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcGkubG9naW4uZnllcnMuaW4iLCJpYXQiOjE3MDcxMTUwNzUsImV4cCI6MTcwNzE0NTA3NSwibmJmIjoxNzA3MTE0NDc1LCJhdWQiOiJbXCJ4OjBcIiwgXCJ4OjFcIiwgXCJ4OjJcIiwgXCJkOjFcIiwgXCJkOjJcIiwgXCJ4OjFcIiwgXCJ4OjBcIl0iLCJzdWIiOiJhdXRoX2NvZGUiLCJkaXNwbGF5X25hbWUiOiJYVjIxNTA1Iiwib21zIjoiSzEiLCJoc21fa2V5IjoiODRmOWU1NmRmZWZjYTI4OGRhNDI5ODJiZDI4Y2VkMGI4YzhkMGM1MzBkM2ZjYmZlMmUwMmE0MWIiLCJub25jZSI6IiIsImFwcF9pZCI6IlBVTEQzM0MzQVEiLCJ1dWlkIjoiM2M4OWNiYjFlODVjNGVjNjkwNDc0ZTMwZTVjOTRkNWMiLCJpcEFkZHIiOiIwLjAuMC4wIiwic2NvcGUiOiIifQ.2JI_pkWSRQUgfrmFdoA_00vW_6uthl7PqpqgDEc4RKI"
+
+# appSession = accessToken.SessionModel(
+#     client_id = client_id, 
+#     redirect_uri = redirect_uri,
+#     response_type=response_type,
+#     state=state,secret_key=secret_key,
+#     grant_type=grant_type
+#     )
+
+# generateTokenUrl = appSession.generate_authcode()
+# # print(generateTokenUrl)
+# webbrowser.open(generateTokenUrl, new=1)
+# appSession.set_token(auth_code)
+# responses = appSession.generate_token()
+# # print(responses)
+# access_token = responses['access_token']
+# refresh_token = responses['refresh_token']
+
+# print(access_token,'\n\n\n',refresh_token)
+
+access_token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcGkuZnllcnMuaW4iLCJpYXQiOjE3MDcxMTUxMjUsImV4cCI6MTcwNzE3OTQ0NSwibmJmIjoxNzA3MTE1MTI1LCJhdWQiOlsieDowIiwieDoxIiwieDoyIiwiZDoxIiwiZDoyIiwieDoxIiwieDowIl0sInN1YiI6ImFjY2Vzc190b2tlbiIsImF0X2hhc2giOiJnQUFBQUFCbHdJSjFEdXdRMC1LcWh1Slg0SFZSQ3NpVWhYSlQySkptLVdMMmJGd1VHRTgwMVBiOTd2YWVTS0NIV19JdkFPMEdYd3NiMnM3V3ZVM1E2Y194T3pIeUxCNXNXV1M4VlptVkk4LUdjQngyeF9fOF9Bbz0iLCJkaXNwbGF5X25hbWUiOiJWRUVSQVJBR0FWQU4gTEFLU0hNQU5BIEtVTUFSIiwib21zIjoiSzEiLCJoc21fa2V5IjoiODRmOWU1NmRmZWZjYTI4OGRhNDI5ODJiZDI4Y2VkMGI4YzhkMGM1MzBkM2ZjYmZlMmUwMmE0MWIiLCJmeV9pZCI6IlhWMjE1MDUiLCJhcHBUeXBlIjoxMDAsInBvYV9mbGFnIjoiTiJ9.PzQrDtTmEesd7wX1zcpskLEkhVrdERSt3eeVm9Z5WvM"
+refresh_token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcGkuZnllcnMuaW4iLCJpYXQiOjE3MDcxMTUxMjUsImV4cCI6MTcwODM4OTA0NSwibmJmIjoxNzA3MTE1MTI1LCJhdWQiOlsieDowIiwieDoxIiwieDoyIiwiZDoxIiwiZDoyIiwieDoxIiwieDowIl0sInN1YiI6InJlZnJlc2hfdG9rZW4iLCJhdF9oYXNoIjoiZ0FBQUFBQmx3SUoxRHV3UTAtS3FodUpYNEhWUkNzaVVoWEpUMkpKbS1XTDJiRndVR0U4MDFQYjk3dmFlU0tDSFdfSXZBTzBHWHdzYjJzN1d2VTNRNmNfeE96SHlMQjVzV1dTOFZabVZJOC1HY0J4MnhfXzhfQW89IiwiZGlzcGxheV9uYW1lIjoiVkVFUkFSQUdBVkFOIExBS1NITUFOQSBLVU1BUiIsIm9tcyI6IksxIiwiaHNtX2tleSI6Ijg0ZjllNTZkZmVmY2EyODhkYTQyOTgyYmQyOGNlZDBiOGM4ZDBjNTMwZDNmY2JmZTJlMDJhNDFiIiwiZnlfaWQiOiJYVjIxNTA1IiwiYXBwVHlwZSI6MTAwLCJwb2FfZmxhZyI6Ik4ifQ.7hxwDhvIbQdrfI-x-hil3PnYXYa_jGa-sMKw8ZUOWnA"
+
+fyers = fyersModel.FyersModel(token=access_token,client_id=client_id,log_path=os.getcwd())
+
+# print(fyers.tradebook())
+data = {"symbols":"NSE:SBIN-EQ"}
+stuff = fyers.get_profile()
+print(json.dumps(stuff))

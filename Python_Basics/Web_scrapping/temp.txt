@@ -105,7 +105,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_AE01_f9N">
-        3,216.90
+        3,173.45
        </td>
        <td>
         307.60
@@ -138,8 +138,8 @@
          Adani Ports
         </a>
        </td>
-       <td class="greentxt" id="ltp_MPS_f9N">
-        1,287.55
+       <td class="redtxt" id="ltp_MPS_f9N">
+        1,258.55
        </td>
        <td>
         549.08
@@ -173,7 +173,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_AHE_f9N">
-        6,301.75
+        6,234.50
        </td>
        <td>
         97.65
@@ -206,8 +206,8 @@
          Asian Paints
         </a>
        </td>
-       <td class="greentxt" id="ltp_API_f9N">
-        2,946.20
+       <td class="redtxt" id="ltp_API_f9N">
+        2,917.35
        </td>
        <td>
         94.25
@@ -241,7 +241,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_UTI10_f9N">
-        1,065.05
+        1,061.50
        </td>
        <td>
         17.92
@@ -274,8 +274,8 @@
          Bajaj Auto
         </a>
        </td>
-       <td class="greentxt" id="ltp_BA06_f9N">
-        7,783.40
+       <td class="redtxt" id="ltp_BA06_f9N">
+        7,658.25
        </td>
        <td>
         21.04
@@ -309,7 +309,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_BAF_f9N">
-        6,826.15
+        6,608.20
        </td>
        <td>
         78.21
@@ -343,7 +343,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_BF04_f9N">
-        1,638.65
+        1,614.90
        </td>
        <td>
         863.27
@@ -377,7 +377,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_BPC_f9N">
-        582.45
+        574.75
        </td>
        <td>
         8.70
@@ -411,7 +411,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_BTV_f9N">
-        1,125.70
+        1,113.55
        </td>
        <td>
         -115.61
@@ -445,7 +445,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_BI_f9N">
-        5,143.85
+        5,124.50
        </td>
        <td>
         48.17
@@ -479,7 +479,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_C_f9N">
-        1,427.90
+        1,433.90
        </td>
        <td>
         27.80
@@ -513,7 +513,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_CI29_f9N">
-        435.45
+        440.25
        </td>
        <td>
         10.07
@@ -546,8 +546,8 @@
          Divis Labs
         </a>
        </td>
-       <td class="greentxt" id="ltp_DL03_f9N">
-        3,708.60
+       <td class="" id="ltp_DL03_f9N">
+        3,699.50
        </td>
        <td>
         39.63
@@ -581,7 +581,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_DRL_f9N">
-        6,115.40
+        6,094.45
        </td>
        <td>
         43.90
@@ -615,7 +615,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_EM_f9N">
-        3,890.00
+        3,889.95
        </td>
        <td>
         42.35
@@ -649,7 +649,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_GI01_f9N">
-        2,130.00
+        2,089.75
        </td>
        <td>
         35.81
@@ -683,7 +683,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_HCL02_f9N">
-        1,577.80
+        1,555.35
        </td>
        <td>
         29.02
@@ -717,7 +717,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_HDF01_f9N">
-        1,443.60
+        1,444.85
        </td>
        <td>
         22.01
@@ -751,7 +751,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_HSL01_f9N">
-        573.40
+        563.35
        </td>
        <td>
         103.45
@@ -785,7 +785,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_HHM_f9N">
-        4,755.00
+        4,746.65
        </td>
        <td>
         18.53
@@ -818,8 +818,8 @@
          Hindalco
         </a>
        </td>
-       <td class="greentxt" id="ltp_H_f9N">
-        586.40
+       <td class="redtxt" id="ltp_H_f9N">
+        579.90
        </td>
        <td>
         16.38
@@ -853,7 +853,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_HL_f9N">
-        2,440.60
+        2,419.50
        </td>
        <td>
         54.59
@@ -887,7 +887,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_ICI02_f9N">
-        1,019.70
+        1,023.50
        </td>
        <td>
         21.70
@@ -921,7 +921,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_IIB_f9N">
-        1,544.65
+        1,537.80
        </td>
        <td>
         15.70
@@ -954,8 +954,8 @@
          Infosys
         </a>
        </td>
-       <td class="greentxt" id="ltp_IT_f9N">
-        1,694.30
+       <td class="redtxt" id="ltp_IT_f9N">
+        1,687.20
        </td>
        <td>
         37.77
@@ -988,8 +988,8 @@
          ITC
         </a>
        </td>
-       <td class="greentxt" id="ltp_ITC_f9N">
-        441.65
+       <td class="redtxt" id="ltp_ITC_f9N">
+        438.05
        </td>
        <td>
         20.51
@@ -1023,7 +1023,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_JVS_f9N">
-        820.80
+        814.65
        </td>
        <td>
         10.54
@@ -1057,7 +1057,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_KMF_f9N">
-        1,810.25
+        1,808.35
        </td>
        <td>
         49.84
@@ -1091,7 +1091,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_LT_f9N">
-        3,367.10
+        3,341.75
        </td>
        <td>
         31.51
@@ -1124,8 +1124,8 @@
          LTIMindtree
         </a>
        </td>
-       <td class="greentxt" id="ltp_LI09_f9N">
-        5,486.45
+       <td class="redtxt" id="ltp_LI09_f9N">
+        5,438.45
        </td>
        <td>
         47.66
@@ -1159,7 +1159,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_MM_f9N">
-        1,691.90
+        1,703.55
        </td>
        <td>
         19.54
@@ -1193,7 +1193,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_MU01_f9N">
-        10,591.45
+        10,428.55
        </td>
        <td>
         60.65
@@ -1227,7 +1227,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_NI_f9N">
-        2,480.95
+        2,462.70
        </td>
        <td>
         0.00
@@ -1261,7 +1261,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_NTP_f9N">
-        338.25
+        336.10
        </td>
        <td>
         8.12
@@ -1295,7 +1295,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_ONG_f9N">
-        265.15
+        262.95
        </td>
        <td>
         5.12
@@ -1329,7 +1329,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_PGC_f9N">
-        285.50
+        282.90
        </td>
        <td>
         8.85
@@ -1362,8 +1362,8 @@
          Reliance
         </a>
        </td>
-       <td class="greentxt" id="ltp_RI_f9N">
-        2,922.55
+       <td class="redtxt" id="ltp_RI_f9N">
+        2,878.05
        </td>
        <td>
         44.48
@@ -1397,7 +1397,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_SLI03_f9N">
-        1,426.25
+        1,419.85
        </td>
        <td>
         0.00
@@ -1431,7 +1431,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_SBI_f9N">
-        648.60
+        642.95
        </td>
        <td>
         13.91
@@ -1465,7 +1465,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_SPI_f9N">
-        1,454.80
+        1,463.80
        </td>
        <td>
         -2,286.88
@@ -1499,7 +1499,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_TCS_f9N">
-        3,999.70
+        3,973.30
        </td>
        <td>
         35.84
@@ -1533,7 +1533,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_TT_f9N">
-        1,161.40
+        1,150.75
        </td>
        <td>
         80.89
@@ -1567,7 +1567,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_TEL_f9N">
-        940.60
+        926.80
        </td>
        <td>
         -119.49
@@ -1601,7 +1601,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_TIS_f9N">
-        141.45
+        141.55
        </td>
        <td>
         4.84
@@ -1634,8 +1634,8 @@
          Tech Mahindra
         </a>
        </td>
-       <td class="greentxt" id="ltp_TM4_f9N">
-        1,347.05
+       <td class="redtxt" id="ltp_TM4_f9N">
+        1,332.75
        </td>
        <td>
         29.70
@@ -1669,7 +1669,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_TI01_f9N">
-        3,600.20
+        3,552.05
        </td>
        <td>
         103.26
@@ -1703,7 +1703,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_UTC_f9N">
-        10,079.50
+        9,916.35
        </td>
        <td>
         26.95
@@ -1737,7 +1737,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_SI10_f9N">
-        491.30
+        474.00
        </td>
        <td>
         50.01
@@ -1770,8 +1770,8 @@
          Wipro
         </a>
        </td>
-       <td class="greentxt" id="ltp_W_f9N">
-        484.35
+       <td class="redtxt" id="ltp_W_f9N">
+        482.35
        </td>
        <td>
         26.66

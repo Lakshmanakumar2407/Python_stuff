@@ -77,45 +77,7 @@ def dict_combiner(*args):
             else:
                 combined_dict[key] = value
 
-    # select the dict with longest length
-    # dict_len = [len(dict0) for dict0 in args ]
-    # length = 0
-    # for dict0 in args:
-    #     if len(dict0)>length:
-    #         length = len(dict0)
-    #         long_dict = dict0
-    # check if key in longest dict is in other dicts
-    # for key in long_dict:
-    #     combined_dict[key] = long_dict[key]
-    #     print (combined_dict)
-    #     for dict0 in args:
-    #         if key in dict0:
-    #             if long_dict[key]==dict0[key]:
-    #                 continue
-    #             else:
-    #                 combined_dict[key] += dict0[key]
-    #                 # print (combined_dict)
-                
-    '''
-    MY THINKING
-
-    How to combine two or more dicts??
-
-    1. create a new dict which will store the combined dicts
-    2. select the dict with longest length
-    3. check if the key in the longest dict is in other dicts
-        3.1 if yes combines the values of the key (here since they are both of same data structure list they can smply be added)
-        3.2 if not just add the key to the new dict
-    '''
-
-    '''
-    WHAT WENT WRONG WITH MY THINKING?
-
-    - I thought of slecting the longest dict from the given dicts and then checking the remaining dict against that
-    - This process involves two computation and numerous loops
-
-    * what gpt did was first pass the given and then iterate over the other dict and check if the values are present if yes append if not add
-    '''
+    
     
     return combined_dict
 
@@ -128,7 +90,6 @@ def data_storing(some_dict):
     finally:
         os.chdir(os.getcwd()+'\\Stock_data')
         print(os.getcwd())
-    # print(some_dict)
     for key,value in some_dict.items():
             with open(f'{key}_historical.csv','a',newline='') as stock_csv:
 
@@ -139,13 +100,6 @@ def data_storing(some_dict):
                     stock_csv_writer.writerow(filehead)
 
                 stock_csv_writer.writerow(value)
-                # for num in value:
-                #     print(num)
-                #     # pass
-                #     stock_csv_writer.writerow(num)
-                
-            # stock_csv = csv.writer(stock_csv)
-                # stock_csv.writerow(value)
 
 
 def main():
@@ -171,3 +125,45 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+'''
+My notes - thinking and mistakes I did
+
+# select the dict with longest length
+    # dict_len = [len(dict0) for dict0 in args ]
+    # length = 0
+    # for dict0 in args:
+    #     if len(dict0)>length:
+    #         length = len(dict0)
+    #         long_dict = dict0
+    # check if key in longest dict is in other dicts
+    # for key in long_dict:
+    #     combined_dict[key] = long_dict[key]
+    #     print (combined_dict)
+    #     for dict0 in args:
+    #         if key in dict0:
+    #             if long_dict[key]==dict0[key]:
+    #                 continue
+    #             else:
+    #                 combined_dict[key] += dict0[key]
+    #                 # print (combined_dict)
+                
+    MY THINKING
+
+    How to combine two or more dicts??
+
+    1. create a new dict which will store the combined dicts
+    2. select the dict with longest length
+    3. check if the key in the longest dict is in other dicts
+        3.1 if yes combines the values of the key (here since they are both of same data structure list they can smply be added)
+        3.2 if not just add the key to the new dict
+
+    WHAT WENT WRONG WITH MY THINKING?
+
+    - I thought of slecting the longest dict from the given dicts and then checking the remaining dict against that
+    - This process involves two computation and numerous loops
+
+    * what gpt did was first pass the given and then iterate over the other dict and check if the values are present if yes append if not add
+
+'''
