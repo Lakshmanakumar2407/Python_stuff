@@ -105,7 +105,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_AE01_f9N">
-        3,173.45
+        3,231.00
        </td>
        <td>
         307.60
@@ -139,7 +139,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_MPS_f9N">
-        1,258.55
+        1,260.10
        </td>
        <td>
         549.08
@@ -173,7 +173,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_AHE_f9N">
-        6,234.50
+        6,156.60
        </td>
        <td>
         97.65
@@ -206,8 +206,8 @@
          Asian Paints
         </a>
        </td>
-       <td class="redtxt" id="ltp_API_f9N">
-        2,917.35
+       <td class="greentxt" id="ltp_API_f9N">
+        2,943.25
        </td>
        <td>
         94.25
@@ -240,8 +240,8 @@
          Axis Bank
         </a>
        </td>
-       <td class="redtxt" id="ltp_UTI10_f9N">
-        1,061.50
+       <td class="greentxt" id="ltp_UTI10_f9N">
+        1,062.25
        </td>
        <td>
         17.92
@@ -275,7 +275,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_BA06_f9N">
-        7,658.25
+        7,668.05
        </td>
        <td>
         21.04
@@ -308,8 +308,8 @@
          Bajaj Finance
         </a>
        </td>
-       <td class="redtxt" id="ltp_BAF_f9N">
-        6,608.20
+       <td class="greentxt" id="ltp_BAF_f9N">
+        6,657.35
        </td>
        <td>
         78.21
@@ -343,7 +343,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_BF04_f9N">
-        1,614.90
+        1,592.05
        </td>
        <td>
         863.27
@@ -376,8 +376,8 @@
          BPCL
         </a>
        </td>
-       <td class="greentxt" id="ltp_BPC_f9N">
-        574.75
+       <td class="redtxt" id="ltp_BPC_f9N">
+        608.75
        </td>
        <td>
         8.70
@@ -410,8 +410,8 @@
          Bharti Airtel
         </a>
        </td>
-       <td class="redtxt" id="ltp_BTV_f9N">
-        1,113.55
+       <td class="" id="ltp_BTV_f9N">
+        1,134.05
        </td>
        <td>
         -115.61
@@ -444,8 +444,8 @@
          Britannia
         </a>
        </td>
-       <td class="redtxt" id="ltp_BI_f9N">
-        5,124.50
+       <td class="greentxt" id="ltp_BI_f9N">
+        5,090.10
        </td>
        <td>
         48.17
@@ -479,7 +479,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_C_f9N">
-        1,433.90
+        1,428.00
        </td>
        <td>
         27.80
@@ -513,7 +513,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_CI29_f9N">
-        440.25
+        449.70
        </td>
        <td>
         10.07
@@ -546,8 +546,8 @@
          Divis Labs
         </a>
        </td>
-       <td class="" id="ltp_DL03_f9N">
-        3,699.50
+       <td class="redtxt" id="ltp_DL03_f9N">
+        3,717.00
        </td>
        <td>
         39.63
@@ -580,8 +580,8 @@
          Dr Reddys Labs
         </a>
        </td>
-       <td class="greentxt" id="ltp_DRL_f9N">
-        6,094.45
+       <td class="redtxt" id="ltp_DRL_f9N">
+        6,139.00
        </td>
        <td>
         43.90
@@ -614,8 +614,8 @@
          Eicher Motors
         </a>
        </td>
-       <td class="greentxt" id="ltp_EM_f9N">
-        3,889.95
+       <td class="redtxt" id="ltp_EM_f9N">
+        3,920.50
        </td>
        <td>
         42.35
@@ -648,8 +648,8 @@
          Grasim
         </a>
        </td>
-       <td class="redtxt" id="ltp_GI01_f9N">
-        2,089.75
+       <td class="greentxt" id="ltp_GI01_f9N">
+        2,093.85
        </td>
        <td>
         35.81
@@ -683,7 +683,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_HCL02_f9N">
-        1,555.35
+        1,613.05
        </td>
        <td>
         29.02
@@ -717,7 +717,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_HDF01_f9N">
-        1,444.85
+        1,434.50
        </td>
        <td>
         22.01
@@ -750,8 +750,8 @@
          HDFC Life
         </a>
        </td>
-       <td class="redtxt" id="ltp_HSL01_f9N">
-        563.35
+       <td class="greentxt" id="ltp_HSL01_f9N">
+        606.40
        </td>
        <td>
         103.45
@@ -784,8 +784,8 @@
          Hero Motocorp
         </a>
        </td>
-       <td class="greentxt" id="ltp_HHM_f9N">
-        4,746.65
+       <td class="redtxt" id="ltp_HHM_f9N">
+        4,739.20
        </td>
        <td>
         18.53
@@ -818,8 +818,8 @@
          Hindalco
         </a>
        </td>
-       <td class="redtxt" id="ltp_H_f9N">
-        579.90
+       <td class="greentxt" id="ltp_H_f9N">
+        586.05
        </td>
        <td>
         16.38
@@ -853,7 +853,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_HL_f9N">
-        2,419.50
+        2,420.05
        </td>
        <td>
         54.59
@@ -887,7 +887,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_ICI02_f9N">
-        1,023.50
+        1,016.50
        </td>
        <td>
         21.70
@@ -920,8 +920,8 @@
          IndusInd Bank
         </a>
        </td>
-       <td class="greentxt" id="ltp_IIB_f9N">
-        1,537.80
+       <td class="redtxt" id="ltp_IIB_f9N">
+        1,495.80
        </td>
        <td>
         15.70
@@ -955,7 +955,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_IT_f9N">
-        1,687.20
+        1,699.80
        </td>
        <td>
         37.77
@@ -988,8 +988,8 @@
          ITC
         </a>
        </td>
-       <td class="redtxt" id="ltp_ITC_f9N">
-        438.05
+       <td class="greentxt" id="ltp_ITC_f9N">
+        431.75
        </td>
        <td>
         20.51
@@ -1022,8 +1022,8 @@
          JSW Steel
         </a>
        </td>
-       <td class="redtxt" id="ltp_JVS_f9N">
-        814.65
+       <td class="greentxt" id="ltp_JVS_f9N">
+        826.20
        </td>
        <td>
         10.54
@@ -1056,8 +1056,8 @@
          Kotak Mahindra
         </a>
        </td>
-       <td class="redtxt" id="ltp_KMF_f9N">
-        1,808.35
+       <td class="greentxt" id="ltp_KMF_f9N">
+        1,794.85
        </td>
        <td>
         49.84
@@ -1091,7 +1091,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_LT_f9N">
-        3,341.75
+        3,415.50
        </td>
        <td>
         31.51
@@ -1125,7 +1125,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_LI09_f9N">
-        5,438.45
+        5,443.00
        </td>
        <td>
         47.66
@@ -1158,8 +1158,8 @@
          M&amp;M
         </a>
        </td>
-       <td class="greentxt" id="ltp_MM_f9N">
-        1,703.55
+       <td class="redtxt" id="ltp_MM_f9N">
+        1,717.55
        </td>
        <td>
         19.54
@@ -1193,7 +1193,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_MU01_f9N">
-        10,428.55
+        10,793.75
        </td>
        <td>
         60.65
@@ -1226,8 +1226,8 @@
          Nestle
         </a>
        </td>
-       <td class="redtxt" id="ltp_NI_f9N">
-        2,462.70
+       <td class="greentxt" id="ltp_NI_f9N">
+        2,467.20
        </td>
        <td>
         0.00
@@ -1260,8 +1260,8 @@
          NTPC
         </a>
        </td>
-       <td class="greentxt" id="ltp_NTP_f9N">
-        336.10
+       <td class="redtxt" id="ltp_NTP_f9N">
+        330.80
        </td>
        <td>
         8.12
@@ -1294,8 +1294,8 @@
          ONGC
         </a>
        </td>
-       <td class="greentxt" id="ltp_ONG_f9N">
-        262.95
+       <td class="redtxt" id="ltp_ONG_f9N">
+        268.30
        </td>
        <td>
         5.12
@@ -1328,8 +1328,8 @@
          Power Grid Corp
         </a>
        </td>
-       <td class="greentxt" id="ltp_PGC_f9N">
-        282.90
+       <td class="redtxt" id="ltp_PGC_f9N">
+        269.95
        </td>
        <td>
         8.85
@@ -1362,8 +1362,8 @@
          Reliance
         </a>
        </td>
-       <td class="redtxt" id="ltp_RI_f9N">
-        2,878.05
+       <td class="greentxt" id="ltp_RI_f9N">
+        2,866.30
        </td>
        <td>
         44.48
@@ -1397,7 +1397,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_SLI03_f9N">
-        1,419.85
+        1,457.00
        </td>
        <td>
         0.00
@@ -1430,8 +1430,8 @@
          SBI
         </a>
        </td>
-       <td class="redtxt" id="ltp_SBI_f9N">
-        642.95
+       <td class="greentxt" id="ltp_SBI_f9N">
+        665.90
        </td>
        <td>
         13.91
@@ -1465,7 +1465,7 @@
         </a>
        </td>
        <td class="greentxt" id="ltp_SPI_f9N">
-        1,463.80
+        1,489.25
        </td>
        <td>
         -2,286.88
@@ -1498,8 +1498,8 @@
          TCS
         </a>
        </td>
-       <td class="greentxt" id="ltp_TCS_f9N">
-        3,973.30
+       <td class="redtxt" id="ltp_TCS_f9N">
+        4,096.95
        </td>
        <td>
         35.84
@@ -1533,7 +1533,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_TT_f9N">
-        1,150.75
+        1,153.60
        </td>
        <td>
         80.89
@@ -1566,8 +1566,8 @@
          Tata Motors
         </a>
        </td>
-       <td class="greentxt" id="ltp_TEL_f9N">
-        926.80
+       <td class="redtxt" id="ltp_TEL_f9N">
+        929.20
        </td>
        <td>
         -119.49
@@ -1600,8 +1600,8 @@
          Tata Steel
         </a>
        </td>
-       <td class="greentxt" id="ltp_TIS_f9N">
-        141.55
+       <td class="" id="ltp_TIS_f9N">
+        144.65
        </td>
        <td>
         4.84
@@ -1635,7 +1635,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_TM4_f9N">
-        1,332.75
+        1,335.80
        </td>
        <td>
         29.70
@@ -1668,8 +1668,8 @@
          Titan Company
         </a>
        </td>
-       <td class="redtxt" id="ltp_TI01_f9N">
-        3,552.05
+       <td class="greentxt" id="ltp_TI01_f9N">
+        3,586.60
        </td>
        <td>
         103.26
@@ -1702,8 +1702,8 @@
          UltraTechCement
         </a>
        </td>
-       <td class="redtxt" id="ltp_UTC_f9N">
-        9,916.35
+       <td class="greentxt" id="ltp_UTC_f9N">
+        10,145.00
        </td>
        <td>
         26.95
@@ -1737,7 +1737,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_SI10_f9N">
-        474.00
+        478.00
        </td>
        <td>
         50.01
@@ -1771,7 +1771,7 @@
         </a>
        </td>
        <td class="redtxt" id="ltp_W_f9N">
-        482.35
+        495.05
        </td>
        <td>
         26.66

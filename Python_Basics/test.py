@@ -1,5 +1,5 @@
 import os
-os.chdir(r'Python\Python_Basics')
+# os.chdir('Python/Python_Basics')
 print(os.getcwd())
 title_list = (os.listdir())
 title_list_py = [title for title in title_list if title[-3:]=='.py' and title[0].isdigit() == True]
