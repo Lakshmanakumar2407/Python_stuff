@@ -23,4 +23,13 @@ for a,b in zipped:
 
 import datetime
 
-print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+# print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+
+passed_tests = 0
+
+for n in range(1, 13):
+  score = - (n**2/1000) * (n**3 - 15*n**2 + 50*n) + 40
+  if score == 40:
+    passed_tests += 1
+
+print(passed_tests)
