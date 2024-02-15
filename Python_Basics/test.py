@@ -32,4 +32,4 @@ for n in range(1, 13):
   if score == 40:
     passed_tests += 1
 
-print(passed_tests)
+print([1,2]>[2,3])
