@@ -1,4 +1,4 @@
-import os
+import os, datetime
 # os.chdir('Python/Python_Basics')
 print(os.getcwd())
 title_list = (os.listdir())
@@ -32,4 +32,7 @@ for n in range(1, 13):
   if score == 40:
     passed_tests += 1
 
-print([1,2]>[2,3])
+time_now = datetime.datetime.now()
+time_after_1s = time_now + datetime.timedelta(seconds=1)
+
+print(max(time_now, time_after_1s), time_now, time_after_1s)
