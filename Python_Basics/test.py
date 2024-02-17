@@ -1,4 +1,4 @@
-import os, datetime
+import os, datetime, time
 # os.chdir('Python/Python_Basics')
 print(os.getcwd())
 title_list = (os.listdir())
@@ -35,4 +35,13 @@ for n in range(1, 13):
 time_now = datetime.datetime.now()
 time_after_1s = time_now + datetime.timedelta(seconds=1)
 
-print(max(time_now, time_after_1s), time_now, time_after_1s)
+# print(max(time_now, time_after_1s), time_now, time_after_1s)
+# st = time.time()
+# print(datetime.datetime.fromtimestamp(st))
+# time.sleep(10)
+# et = time.time()
+# print(et)
+# print(et-st)
+
+def error_handler(*args):
+   pass
