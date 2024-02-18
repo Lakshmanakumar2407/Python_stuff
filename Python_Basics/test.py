@@ -45,3 +45,13 @@ time_after_1s = time_now + datetime.timedelta(seconds=1)
 
 def error_handler(*args):
    pass
+
+file_path = 'Python_Basics\\43.1_csv_names_sample.csv'
+
+dict1 = {'a':{1:'', 2:''}, 'b':{}}
+
+for key in dict1:
+   print(key)
+   for key1 in dict1[key]:
+      print(key1)
+      print(max(dict1[key].keys()))
