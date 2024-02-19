@@ -34,24 +34,24 @@ email_to = email_address
 msg = MIMEMultipart() # it's a class
 msg['Subject'] = email_subject
 msg['From'] = email_address
-contact_list = [email_address,'user2@gmail.com','user3@gmail.com']
+contact_list = [email_address]
 msg['To'] = ', '.join(contact_list)
 
 # CREATING A TEXT
 # msg.attach(MIMEText('This is a simple plain email', "plain"))
 msg.attach(MIMEText('<h3>This is a simple plain email</h3>', "html"))
 
-# ATTACHING A IMAGE
-with open(r'C:\Users\laksh\OneDrive\Pictures\images.png','rb') as img:
-    msg.attach(MIMEImage(img.read(), name = 'Sample_pic.png'))
+# # ATTACHING A IMAGE
+# with open(r'C:\Users\laksh\OneDrive\Pictures\images.png','rb') as img:
+#     msg.attach(MIMEImage(img.read(), name = 'Sample_pic.png'))
 
-# ATTCHING A AUDIO
-with open(r'C:\Users\laksh\Music\Anirudh Ravichander - Pathala Pathala.mp3', 'rb') as aud:
-    # It look like I can't send the message directly...
-    aud_attachement = MIMEBase('audio', 'mp3', name = 'pathala pathala') # the arguments are maintype and subtype which should be apssed as string
-    aud_attachement.set_payload(aud.read()) # passing the main file
-    encoders.encode_base64(aud_attachement)
-    msg.attach(aud_attachement)
+# # ATTCHING A AUDIO
+# with open(r'C:\Users\laksh\Music\Anirudh Ravichander - Pathala Pathala.mp3', 'rb') as aud:
+#     # It look like I can't send the message directly...
+#     aud_attachement = MIMEBase('audio', 'mp3', name = 'pathala pathala') # the arguments are maintype and subtype which should be apssed as string
+#     aud_attachement.set_payload(aud.read()) # passing the main file
+#     encoders.encode_base64(aud_attachement)
+#     msg.attach(aud_attachement)
 
 # ATTACHING A DOCUMENT
 # with open('extracted.md', encoding='utf-8') as md:
