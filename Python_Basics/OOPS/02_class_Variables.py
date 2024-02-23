@@ -5,14 +5,14 @@ class Employee:
   pay_raise_percent = 4 # CLASS VARIABLE
   no_of_employee = 0
 
-  def __init__(self,salary): # this method runs every time the class Emplyee is called
+  def __init__(self,fname, lname, salary): # this method runs every time the class Emplyee is called
 
     # commented some attributes to check looping
 
-    # self.firstname = fname
-    # self.lastname = lname
+    self.firstname = fname
+    self.lastname = lname
     self.salary = salary
-    # self.name = fname + " " + lname
+    self.name = fname + " " + lname
 
     Employee.no_of_employee += 1
 
@@ -26,20 +26,21 @@ class Employee:
     # It can be changed for that instance alone
 
 
-#     emp_1 = Employee("John","Doe",5000)
+emp_1 = Employee("John","Doe",5000)
 # here class <Employee> got it's instance as emp_1
 # i.e. emp_1 is an instance of class Employee
-#     emp_2 = Employee("Jane","trough",2000)
+emp_2 = Employee("Jane","trough",2000)
 
 
 # Lets run a for loop for employee's
-employee_dict = {}
+# employee_dict = {}
 
-for i in range(100):
-    employee_dict['emp_'+str(i)] = r.randint(1000,10000)
+# for i in range(100):
+#     employee_dict['emp_'+str(i)] = r.randint(1000,10000)
     
-for key in employee_dict.keys():
-  key = Employee(employee_dict[key])
+# for key in employee_dict.keys():
+#   key = Employee(employee_dict[key])
+#   # print(employee_dict[key])
 
 
 
@@ -50,23 +51,23 @@ for key in employee_dict.keys():
 # Here, the class employee don't need to have.... lets say attribute pay_raise_percent as different of every employee
 # So a class variable can be used in this instance.... Check in the class
 
-##print(Employee.email(emp_1))
+print(Employee.email(emp_1))
 
 # both perform the same, but in the below code we need to explicitly state that
 # the class employee's method email() is called for the instance emp_1
 
-##print(emp_1.payraise()) # 5200 
+print(emp_1.payraise()) # 5200 
 
 # think the emp_1 as an individual copy of class Employee. Operations performed in emp_1 class instance will not have any changes in main class Employee
 # check this
 
-##print('\n')
-##print(emp_1.__dict__)
-##emp_1.pay_raise_percent = 10
-##print("\n")
-##print(emp_1.payraise())
-##print("\n")
-##print(emp_1.__dict__)
+print('\n')
+print(emp_1.__dict__)
+emp_1.pay_raise_percent = 10
+print("\n")
+print(emp_1.payraise())
+print("\n")
+print(emp_1.__dict__)
 
 # see the output? now see this..
 print("\n")
