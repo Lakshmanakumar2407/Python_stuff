@@ -56,5 +56,9 @@ dict1 = {'a':{1:'', 2:''}, 'b':{}}
 #       print(key1)
 #       print(max(dict1[key].keys()))
 
-d_string = ''
-print(d_string == True)
+# d_string = ''
+# print(d_string == True)
+
+# print("Hello from the otr (%s), (%s)" % ('side'), ('sweety'))
+print("Hello from the otr %s %s" % ('side','true'))
+
