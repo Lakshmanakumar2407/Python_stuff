@@ -34,7 +34,7 @@ while True:
 # RETRIEVE/ READ
 @app.get('/')
 def home():
-    return {'Response':'Welcome to Posts'}
+    return {'Response':'Welcome to Posts Home page'}
 
 @app.get('/posts')
 def get_posts():
